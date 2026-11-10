@@ -1,0 +1,18 @@
+{
+  "source": "Mauna Loa weekly CO2",
+  "target": "Pacific monthly SST 1990-2010",
+  "test_count": 51,
+  "fine_tuned": {
+    "RMSE (\u00b0C)": 0.768470691710256,
+    "MAE (\u00b0C)": 0.6131027340888977
+  },
+  "scratch": {
+    "RMSE (\u00b0C)": 0.7224093866119693,
+    "MAE (\u00b0C)": 0.5769098997116089
+  },
+  "persistence": {
+    "RMSE (\u00b0C)": 1.1629947655446018,
+    "MAE (\u00b0C)": 0.9709803462028503
+  },
+  "rmse_improvement_pct": -6.3760668053207
+}

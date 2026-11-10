@@ -1,0 +1,10 @@
+{
+  "dataset": "SentNoB",
+  "accuracy": 0.6324085750315258,
+  "macro_precision": 0.5922338302378626,
+  "macro_recall": 0.590260557512611,
+  "macro_f1": 0.5864099743716574,
+  "train_n": 12570,
+  "val_n": 1567,
+  "test_n": 1586
+}
